@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raj-aryan-singh" target="blank"><img src="https://i.ibb.co/QK4MJBJ/linkedin.png" alt="hackerrank" border="0"  width="50" height="50" /></a>
-<a href="https://www.hackerrank.com/raj6_10" target="blank"><img src="https://i.ibb.co/pdj2nts/hackerrank.png" alt="linkedin" border="0"  width="50" height="50" /></a>
+<a href="https://linkedin.com/in/raj-aryan-singh" target="blank"><img src="https://i.ibb.co/QK4MJBJ/linkedin.png" alt="hackerrank" border="0"  width="40" height="40" /></a>
+<a href="https://www.hackerrank.com/raj6_10" target="blank"><img src="https://i.ibb.co/pdj2nts/hackerrank.png" alt="linkedin" border="0"  width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
