@@ -31,6 +31,18 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irajaryan/irajaryan/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irajaryan/irajaryan/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/irajaryan/irajaryan/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
 ## 🧠 About Me
 
 ```yaml
@@ -137,18 +149,6 @@ contact     : rajaryansingh610@gmail.com
 <img src="https://img.shields.io/badge/Intro%20to%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irajaryan/irajaryan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irajaryan/irajaryan/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/irajaryan/irajaryan/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
 </div>
 
 ---
