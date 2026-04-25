@@ -1,22 +1,144 @@
-<h1 align="center">Hi I'm Raj</h1>
-<h3 align="center">A Generative AI enthusiast from India</h3>
+<!-- ██████████████████████████████████████████████ -->
+<!--              HEADER BANNER                   -->
+<!-- ██████████████████████████████████████████████ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irajaryan&label=Profile%20views&color=0e75b6&style=flat" alt="irajaryan" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFE135&height=130&text=RAJ%20ARYAN%20SINGH&fontAlign=50&fontAlignY=48&fontSize=46&fontColor=000000&fontStyle=bold&stroke=000000&strokeWidth=3&desc=Lead%20Applied%20AI%20Engineer%20%E2%80%A2%20AVP%20%40%20Barclays%20%E2%80%A2%20Pune%2C%20India&descAlign=50&descAlignY=76&descSize=15&descColor=000000" width="100%"/>
 
-- 🔭 I’m currently working with **Barclays**
+<div align="center">
 
-- 🌱 I’m currently learning **MCP & AI Agents**
+<br/>
 
-- 💬 Ask me about **Generative AI, RAG, LoRA**
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=18&pause=1000&color=000000&background=FFE13500&center=true&vCenter=true&width=600&height=45&lines=Agentic+AI+%7C+RAG+%7C+LLMOps+%F0%9F%A4%96;Multi-Agent+Orchestration+with+LangGraph+%2B+CrewAI;Building+AI+that+actually+ships+to+production.;AWS+Bedrock+%7C+Pinecone+%7C+LangSmith+%7C+DSPy" alt="Typing SVG" />
 
-- 📫 How to reach me **rajaryansingh610@gmail.com**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raj-aryan-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-aryan-singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raj6_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raj6_10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dereferencedoperator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dereferencedoperator" height="30" width="40" /></a>
-</p>
+<!-- SOCIAL BADGES — neobrutalist: black label, yellow value -->
+<a href="https://linkedin.com/in/raj-aryan-singh"><img src="https://img.shields.io/badge/LINKEDIN-raj--aryan--singh-FFE135?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=FFE135"/></a>
+&nbsp;
+<a href="https://leetcode.com/dereferencedoperator"><img src="https://img.shields.io/badge/LEETCODE-dereferencedoperator-FFE135?style=for-the-badge&labelColor=000000&logo=leetcode&logoColor=FFE135"/></a>
+&nbsp;
+<a href="mailto:rajaryansingh610@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rajaryansingh610-FFE135?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=FFE135"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## ▓▓ WHO AM I
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Distinguished Applied AI Engineer with a strong backend     ║
+║  foundation — specializing in enterprise-grade Agentic AI    ║
+║  and advanced RAG for high-concurrency platforms.            ║
+║                                                              ║
+║  I don't just prototype. I ship to production.               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+| | |
+|---|---|
+| 🏢 **Current Role** | Lead Applied AI Engineer · AVP @ Barclays |
+| 🌱 **Learning** | MCP, AI Agents, Agentic Evals |
+| 🔬 **Expertise** | Multi-Agent Systems · LLMOps · Advanced RAG |
+| 🏆 **Recognition** | Top 1% for AI Innovation @ Barclays · Customer Obsession Award |
+| 📍 **Location** | Pune, India |
+
+---
+
+## ▓▓ WHAT I'VE SHIPPED
+
+> **Multi-Agent Classification Pipeline** — LangGraph + CrewAI for automated inbound triage at Barclays, with LangSmith + Ragas evaluation to keep hallucinations out of prod.
+
+> **Ask AI Toolkit** — Advanced RAG with semantic caching + hybrid search. Cut information retrieval time by **77%** and lifted FCR by **16%**.
+
+> **Barclays Assistant** — Intent cluster extraction via topic cloud, broadening Lex taxonomy. **40% increase** in automated handling, **25% fewer** agent handovers.
+
+> **Real-time Session Enrichment** — Customer profile APIs + Pinecone vector retrieval. **+10 NPS points**, **+18% FCR lift**.
+
+> **Serverless Chat Platform** — Multichannel async architecture handling **500k+ requests/day**.
+
+---
+
+## ▓▓ TECH STACK
+
+**🤖 AI / ML**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=FFE135&color=000000&labelColor=FFE135)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&color=000000&labelColor=FFE135&logoColor=000000)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![DSPy](https://img.shields.io/badge/DSPy-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![Ragas](https://img.shields.io/badge/Ragas-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![DeepEval](https://img.shields.io/badge/DeepEval-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+
+**☁️ Cloud & Infrastructure**
+
+![AWS Bedrock](https://img.shields.io/badge/AWS_BEDROCK-000000?style=for-the-badge&logo=amazonaws&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![AWS Lambda](https://img.shields.io/badge/LAMBDA-000000?style=for-the-badge&logo=awslambda&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![SageMaker](https://img.shields.io/badge/SAGEMAKER-000000?style=for-the-badge&logo=amazonaws&color=000000&labelColor=FFE135&label=)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![Kubernetes](https://img.shields.io/badge/K8S-000000?style=for-the-badge&logo=kubernetes&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+
+**🗄️ Vector & Data**
+
+![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![Qdrant](https://img.shields.io/badge/QDRANT-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![PGVector](https://img.shields.io/badge/PGVECTOR-000000?style=for-the-badge&color=000000&labelColor=FFE135)
+![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-000000?style=for-the-badge&logo=elasticsearch&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![Kafka](https://img.shields.io/badge/KAFKA-000000?style=for-the-badge&logo=apachekafka&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![Go](https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFE135&color=000000&labelColor=FFE135&label=)
+
+---
+
+## ▓▓ GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irajaryan&show_icons=true&theme=gruvbox&bg_color=FFE135&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0&hide_border=false" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irajaryan&layout=compact&theme=gruvbox&bg_color=FFE135&title_color=000000&text_color=000000&border_color=000000&border_radius=0&hide_border=false" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=irajaryan&theme=highcontrast&background=FFE135&ring=000000&fire=FF0000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000&border=000000&stroke=000000&border_radius=0" height="165"/>
+
+</div>
+
+---
+
+## ▓▓ CERTIFICATIONS
+
+```
+[✓] RAG Fine-Tuning: Advanced Techniques          — LinkedIn Learning
+[✓] Introduction to Model Context Protocol        — Anthropic
+[✓] Introduction to LangGraph                     — LangChain Academy
+[✓] AWS Certified Developer Associate             — Amazon Web Services
+```
+
+---
+
+## ▓▓ CURRENTLY BUILDING
+
+```
+╔═══════════════════════════════════════════════════╗
+║  Mini-me     → RAG chatbot with DSPy + DeepEval  ║
+║  Data Fleet  → Autonomous CrewAI agents for      ║
+║                IBAN extraction & DB ingestion    ║
+╚═══════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=LET'S%20BUILD%20SOMETHING%20THAT%20SHIPS.&fontAlign=50&fontAlignY=55&fontSize=16&fontColor=FFE135&fontStyle=bold" width="100%"/>
+
+</div>
