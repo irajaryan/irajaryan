@@ -1,7 +1,5 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Raj%20Aryan%20Singh&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Lead%20Generative%20AI%20Engineer%20%E2%80%A2%20AVP%20%40%20Barclays%20%E2%80%A2%20Pune%2C%20India&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn"/>
-Fix this, it appears as grey grid on my github profile
-
 <!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Agentic+AI+%7C+Multi-Agent+Systems+%F0%9F%A4%96;Advanced+RAG+%7C+LLMOps+%7C+Model+Evaluation;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+AWS+Bedrock+%E2%80%A2+DSPy;Building+AI+that+ships+to+production+%F0%9F%9A%80" alt="Typing SVG"/>
