@@ -55,9 +55,7 @@ currently   : [ MCP, AI Agents, Agentic Evaluation Frameworks ]
 contact     : rajaryansingh610@gmail.com
 ```
 
-> Distinguished Applied AI Engineer with a strong backend foundation — specializing in enterprise-grade
-> Agentic AI and production-ready RAG for high-concurrency platforms. I care deeply about
-> deterministic, hallucination-free AI that actually ships.
+> I productionise advanced Gen AI concepts.
 
 ---
 
